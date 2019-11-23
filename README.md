@@ -1,5 +1,3 @@
-<![endif]-->
-
 **Philip Moore**
 **Embedded Systems Project 2**
 
@@ -195,7 +193,7 @@ The Pullup resistor value for SCL was found to be 141.3kΩ, and SDA was 139.3kΩ
 The waveform of SDA is CH1 shown in Orange. And SCL is CH2 shown in blue. Below is a zoomed out graph of both the wave forms, followed by a closer zoomed in graph of the same waveform.
 
 ![](photos/SDA_SCL_ZOOM_OUT.JPG)
-![](photos/SDA_SCL_ZOOM_OUT.JPG)
+![](photos/SDA_SCL_ZOOM_IN.JPG)
 
 
 Game results:
